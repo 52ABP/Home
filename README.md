@@ -6,14 +6,36 @@
 
 我们对分布式架构/系统，小程序、微信、APP都很有兴趣。
 
-我们的目前是打造一套符合中国人开发习惯的框架，想包含AI、.NET CORE、 Linux, Docker, Jenkins、PostgreSql, EntityFrameworkCore, npm, yarn、vue、angular、redis, rabbitmq, mongodb, jexus, nginx，azure，kubernates，service fabric 等企业级可落地的应用框架生态服务。
+我们的目前是打造一套符合中国人开发习惯的框架，想包含AI、.NET CORE、 Linux, Docker, Jenkins、PostgreSql, EntityFrameworkCore, npm, yarn、vue、angular、redis, rabbitmq, mongodb, jexus,ElasticSearch， nginx，azure，kubernates，service fabric 等企业级可落地的应用框架生态服务。
 
 
+## 链接
 
+* 官方网站：[52abp.com]（https://www.52abp.com/）
+* GitHub：[52ABP]（https://github.com/52abp/）
+* 微信公众号：[角落的白板报](http://mp.weixin.qq.com/profile?src=3&timestamp=1543463624&ver=1&signature=hRm1TI4zh80GpKxR5LYIc9SyUcyUPiM1EE8qlUdm4da6auvHFsEVlvZbje-nnhQtIUEbcoMAZs0r4SD9bkcarg==) 微信号：jiaoluodebaibanbao
+* 网易云课堂：[角落的白板报](https://study.163.com/provider/400000000309007/index.htm?share=2&shareId=400000000309007)
+* 52ABP视频课程：[ASP.NET Core与Angular6快速开发](https://dwz.cn/kQydQrTe)
+* 博客园：[角落的白板报](https://www.cnblogs.com/wer-ltm/)
+* 知乎专栏：[角落的白板报](https://zhuanlan.zhihu.com/52abp)
+* 知乎：[角落的白板报](https://www.zhihu.com/people/52abp/activities)
+* 电子邮件：ltm@ddxc.org
 
-## 52ABP.COM
+## 开源组织
 
+我们正在开发和参与的开源项目或商业项目。
 
+### 码云Gitee组织
+
+* [52abp社区培训](https://gitee.com/aiabpedu/dashboard)
+* [角落的白板报](https://gitee.com/yoyocms/)
+
+### GitHub组织
+
+* [52ABP](https://github.com/52ABP)
+* [SenparcCoreFramework](https://github.com/SenparcCoreFramework)
+* [yoyocms](https://github.com/yoyocms)
+* [Aiursoft](https://github.com/AiursoftWeb)
 
 # 52ABP.COM官方网站评论收集意见和想法的地方
 
