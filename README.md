@@ -9,9 +9,6 @@
 我们的目前是打造一套符合中国人开发习惯的框架，想包含AI、.NET CORE、 Linux, Docker, Jenkins、PostgreSql, EntityFrameworkCore, npm, yarn、vue、angular、redis, rabbitmq, mongodb, jexus, nginx，azure，kubernates，service fabric 等企业级可落地的应用框架生态服务。
 
 
-dotnet, asp.net core, Linux, Docker, Jenkins, Docker, PostgreSql, EntityFrameworkCore, npm, gulp, bower, vue
-
-redis, rabbitmq, mongodb, haproxy, nginx, keepalived, aws, azure, linode, digitalocean
 
 
 ## 52ABP.COM
