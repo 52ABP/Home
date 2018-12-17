@@ -16,7 +16,8 @@
 如：网易 100xxxxx88
 
 订单号:
-![](https://user-gold-cdn.xitu.io/2018/10/16/1667ace0e6c88ef6?w=994&h=188&f=png&s=18246)
+ 
+![image.png](https://upload-images.jianshu.io/upload_images/1979022-31293529536d9670.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 交流企鹅群: 
 
@@ -30,7 +31,7 @@
 
 
 
-![](https://user-gold-cdn.xitu.io/2018/10/16/1667ad518396b680?w=637&h=729&f=png&s=53127)
+![image](http://upload-images.jianshu.io/upload_images/1979022-a8acc55cab758309?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 ***
@@ -40,7 +41,7 @@
 [52ABP-2018](https://gitee.com/aiabpedu?invite=c328d22f545c9aa95edf3aa105258e1344a510232b87d7525ac3248359416db060d78ed4151fa514261a386db9370d99)
 
 
-![](https://user-gold-cdn.xitu.io/2018/10/16/1667ad94ec9617ef?w=971&h=558&f=png&s=34746)
+![image](http://upload-images.jianshu.io/upload_images/1979022-b0926ed0381d1169?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 与第二步相同，输入你的姓名 , 理由输入 平台+订单号
 
@@ -52,10 +53,10 @@
 
 将码云的昵称与52ABPQQ群昵称保持一致
 
-![](https://user-gold-cdn.xitu.io/2018/10/16/1667ae26bac4969f?w=632&h=471&f=png&s=23432)
+![image](http://upload-images.jianshu.io/upload_images/1979022-4615bbc96a19650d?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-![](https://user-gold-cdn.xitu.io/2018/10/16/1667ae3476182f54?w=181&h=297&f=png&s=20020)
+![image](http://upload-images.jianshu.io/upload_images/1979022-1798b42c51683c68?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 
