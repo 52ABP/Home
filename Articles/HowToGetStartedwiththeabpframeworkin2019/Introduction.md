@@ -5,6 +5,9 @@
 [[_TOC_]]
 
 
+::: video
+<Embed iframe block from YouTube or Microsoft Streams here.>
+:::
 
 
 
