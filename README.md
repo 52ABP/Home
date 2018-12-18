@@ -9,6 +9,28 @@
 我们的目前是打造一套符合中国人开发习惯的框架，想包含AI、.NET CORE、 Linux, Docker, Jenkins、PostgreSql, EntityFrameworkCore, npm, yarn、vue、angular、redis, rabbitmq, mongodb, jexus,ElasticSearch， nginx，azure，kubernates，service fabric 等企业级可落地的应用框架生态服务。
 
 
+## Feature Map
+
+- [x] 登陆注册
+- [x] 多语言切换
+- [x] 消息管理
+- [x] 多租户
+- [x] 角色管理
+- [x] 组织机构管理
+- [x] 权限管理
+- [x] 设置管理
+- [x] 多语言管理
+- [x] 审计日志
+- [x] 动态Web API
+- [x] docker support
+- [x] EntityFrameworkCore
+----
+- [ ] AI
+- [ ] 微信
+- [ ] kubernates
+- [ ] azure
+- [ ] service fabric
+
 ## 链接
 
 * 官方网站：[52abp.com]（https://www.52abp.com/）
