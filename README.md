@@ -6,7 +6,7 @@
 
 我们对分布式架构/系统，小程序、微信、APP都很有兴趣。
 
-我们的目前是打造一套符合中国人开发习惯的框架，想包含AI、.NET CORE、 Linux, Docker, Jenkins、PostgreSql, EntityFrameworkCore, npm, yarn、vue、angular、redis, rabbitmq, mongodb, jexus,ElasticSearch， nginx，azure，kubernates，service fabric 等企业级可落地的应用框架生态服务。
+我们的目前是打造一套符合中国人开发习惯的框架，想包含AI, .NET Core, Linux, Docker, Jenkins, PostgreSql, Entity Framework Core, npm, yarn, vue, angular, redis, rabbitmq, mongodb, jexus, ElasticSearch, nginx, azure, kubernates, service fabric 等企业级可落地的应用框架生态服务。
 
 
 ## Feature Map
