@@ -33,8 +33,8 @@
 
 ## 链接
 
-* 官方网站：[52abp.com]（https://www.52abp.com/）
-* GitHub：[52ABP]（https://github.com/52abp/）
+* 官方网站：[52abp.com](https://www.52abp.com/)
+* GitHub：[52ABP](https://github.com/52abp/)
 * 微信公众号：[角落的白板报](http://mp.weixin.qq.com/profile?src=3&timestamp=1543463624&ver=1&signature=hRm1TI4zh80GpKxR5LYIc9SyUcyUPiM1EE8qlUdm4da6auvHFsEVlvZbje-nnhQtIUEbcoMAZs0r4SD9bkcarg==) 微信号：jiaoluodebaibanbao
 * 网易云课堂：[角落的白板报](https://study.163.com/provider/400000000309007/index.htm?share=2&shareId=400000000309007)
 * 52ABP视频课程：[ASP.NET Core与Angular6快速开发](https://dwz.cn/kQydQrTe)
