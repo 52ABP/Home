@@ -42,6 +42,9 @@
 * 知乎专栏：[角落的白板报](https://zhuanlan.zhihu.com/52abp)
 * 知乎：[角落的白板报](https://www.zhihu.com/people/52abp/activities)
 * 电子邮件：ltm@ddxc.org
+## 案例库
+如果您不知道如何入手，以及想看看一些代码，
+您可以到[samples-案例中心](https://github.com/52ABP/52abp-samples/blob/master/README.md)，从这里你可以获取到我们历史所有的开源代码，有些是我们创建的有些是我们参与的。
 
 ## 开源组织
 
