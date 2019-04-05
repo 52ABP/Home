@@ -9,64 +9,29 @@
 我们的目前是打造一套符合中国人开发习惯的框架，想包含AI, .NET Core, Linux, Docker, Jenkins, PostgreSql, Entity Framework Core, npm, yarn, vue, angular, redis, rabbitmq, mongodb, jexus, ElasticSearch, nginx, azure, kubernates, service fabric 等企业级可落地的应用框架生态服务。
 
 
-## Feature Map
+# 关注我们
 
-- [x] 登陆注册
-- [x] 多语言切换
-- [x] 消息管理
-- [x] 多租户
-- [x] 角色管理
-- [x] 组织机构管理
-- [x] 权限管理
-- [x] 设置管理
-- [x] 多语言管理
-- [x] 审计日志
-- [x] 动态Web API
-- [x] docker support
-- [x] EntityFrameworkCore
-----
-- [ ] AI
-- [ ] 微信
-- [ ] kubernates
-- [ ] azure
-- [ ] service fabric
+> 如果您觉得我的文章质量还不错，欢迎打赏，也可以订阅我的视频哦 </br>
+> 未得到授权不得擅自转载本文内容,52abp.com 保留版权</br>
+> 交流 QQ 群：952387474 点击链接加入 QQ 群[《微软 MVP 带你学 ASP.NET CORE》](https://jq.qq.com/?_wv=1027&k=5nq4PFQ)</br>
 
-## 链接
+## 视频专区
 
-* 官方网站：[52abp.com](https://www.52abp.com/)
-* GitHub：[52ABP](https://github.com/52abp/)
-* 微信公众号：[角落的白板报](http://mp.weixin.qq.com/profile?src=3&timestamp=1543463624&ver=1&signature=hRm1TI4zh80GpKxR5LYIc9SyUcyUPiM1EE8qlUdm4da6auvHFsEVlvZbje-nnhQtIUEbcoMAZs0r4SD9bkcarg==) 微信号：jiaoluodebaibanbao
-* 网易云课堂：[角落的白板报](https://study.163.com/provider/400000000309007/index.htm?share=2&shareId=400000000309007)
-* 52ABP视频课程：[ASP.NET Core与Angular6快速开发](https://dwz.cn/kQydQrTe)
-* 博客园：[角落的白板报](https://www.cnblogs.com/wer-ltm/)
-* 知乎专栏：[角落的白板报](https://zhuanlan.zhihu.com/52abp)
-* 知乎：[角落的白板报](https://www.zhihu.com/people/52abp/activities)
-* 电子邮件：ltm@ddxc.org
-## 案例库
-如果您不知道如何入手，以及想看看一些代码，
-您可以到[samples-案例中心](https://github.com/52ABP/52abp-samples/blob/master/README.md)，从这里你可以获取到我们历史所有的开源代码，有些是我们创建的有些是我们参与的。
+> 【收费】腾讯课堂:[https://ke.qq.com/course/392589?tuin=2522cdf3](https://ke.qq.com/course/392589?tuin=2522cdf3) </br>
+> 【免费】youtube 视频专区：[http://t.cn/Ei0F2EB](http://t.cn/Ei0F2EB) </br>
+> 【免费】B 站: [https://space.bilibili.com/2954671](https://space.bilibili.com/2954671) </br>
+> 免费的更新慢，收费的更新快，仅此而已。就这样。 </br>
 
-## 开源组织
+## 赞赏是某种的肯定
 
-我们正在开发和参与的开源项目或商业项目。
+<p class="center">
 
-### 码云Gitee组织
+<img src="https://www.52abp.com/imgs/money-QR/alipay.png" width="230">
 
-* [52abp社区培训](https://gitee.com/aiabpedu/dashboard)
-* [角落的白板报](https://gitee.com/yoyocms/)
-
-### GitHub组织
-
-* [52ABP](https://github.com/52ABP)
-* [SenparcCoreFramework](https://github.com/SenparcCoreFramework)
-* [yoyocms](https://github.com/yoyocms)
-* [Aiursoft](https://github.com/AiursoftWeb)
-
-# 52ABP.COM官方网站评论收集意见和想法的地方
-
-我们缺少一个知识和信息留存的地方，所以我建设了52ABP.COM  
-有兴趣的可以看看 https://www.52abp.com/Blog/BlogDetails/3 我在里面基本都说了。
-
-52ABP官方社区的Issue收集库，包括你们的想法和思路都可以提给我，我们在有空的时候，会完善他们。
+<img src="https://www.52abp.com/imgs/money-QR/wechatpay.jpg"  width="230">
+</p>
 
 
+## 关注微信公众号：角落的白板报
+
+![公众号：角落的白板报](https://upload-images.jianshu.io/upload_images/1979022-f19c505c18160c16.png)
